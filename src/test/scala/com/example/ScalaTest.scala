@@ -5,12 +5,12 @@ import org.junit.Test
 class ScalaTest {
 
 	
-  @Test
+  @org.junit.Test
   def test(){
     println("ScalaTest test........");
   }
   
-  @Test
+  @org.junit.Test
   def test1(){
     println("TTTTTTT test........");
   }
